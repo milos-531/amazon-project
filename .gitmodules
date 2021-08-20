@@ -1,0 +1,6 @@
+[submodule "amazon-fullstack-backend"]
+	path = amazon-fullstack-backend
+	url = https://github.com/milos-531/amazon-fullstack-backend
+[submodule "amazon-fullstack"]
+	path = amazon-fullstack
+	url = https://github.com/milos-531/amazon-fullstack
